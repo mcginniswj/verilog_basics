@@ -8,5 +8,5 @@ Current contents:
   -16 to 1 Multiplexer
   -16 bit Ripple Carry Adder, built from 4 bit adders
   -4 bit Ripple Counter using flip flops
-  -Shift Register
+  -Shift Register, progammable width
   -16 bit Subtractor, gate level 
